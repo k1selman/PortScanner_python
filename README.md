@@ -1,5 +1,4 @@
-# Port Scanner in Python
-## Simple port scanner written in Python
+# Port Scanner written in Python
 
 Libraries used: socket, subprocess, sys, datetime
 
